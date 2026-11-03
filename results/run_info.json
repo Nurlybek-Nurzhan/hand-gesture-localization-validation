@@ -1,0 +1,14 @@
+{
+  "torch": "2.11.0+cu130",
+  "device": "Tesla T4",
+  "seeds": [
+    0,
+    1,
+    2
+  ],
+  "epochs": [
+    5,
+    15
+  ],
+  "minutes_since_start_of_session": 100.7
+}

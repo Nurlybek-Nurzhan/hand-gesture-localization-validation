@@ -1,0 +1,4 @@
+protocol,n_runs,HOG+SVM_%,HOG+SVM_std_pp,MobileNetV2_%,MobileNetV2_std_pp
+group 5-fold CV (all 500 images),3,85.93,1.36,93.2,1.04
+random 5-fold CV (all 500 images),3,84.6,1.11,93.73,1.75
+single holdout split (~68 test images),12,87.36,5.16,92.49,4.94

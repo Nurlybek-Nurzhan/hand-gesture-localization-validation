@@ -1,0 +1,13 @@
+# tables and figures from the saved predictions (reproduce_tables.py)
+numpy
+pandas
+matplotlib
+
+# full re-run of the notebook (Google Colab, T4 GPU); the reported run used torch 2.11.0+cu130 and mediapipe 0.10.32
+# torch
+# torchvision
+# scikit-learn
+# scikit-image
+# pillow
+# kagglehub
+# mediapipe==0.10.32

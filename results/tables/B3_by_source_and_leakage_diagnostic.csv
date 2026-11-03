@@ -1,0 +1,5 @@
+protocol,source,n_images,share_with_same_group_in_train_%,HOG+SVM_%,MobileNetV2_%
+group,hagrid,250,0.0,85.87,92.27
+group,own,250,0.0,86.0,94.13
+random,hagrid,250,10.8,86.67,95.2
+random,own,250,100.0,82.53,92.27

@@ -1,0 +1,1251 @@
+idx,source,y,exp,setting,seed,fold,svm,cnn
+250,own,0,C,hagrid->own,0,0,4,0
+251,own,1,C,hagrid->own,0,0,4,1
+252,own,2,C,hagrid->own,0,0,2,1
+253,own,3,C,hagrid->own,0,0,4,3
+254,own,4,C,hagrid->own,0,0,4,2
+255,own,0,C,hagrid->own,0,0,0,0
+256,own,1,C,hagrid->own,0,0,3,1
+257,own,2,C,hagrid->own,0,0,4,2
+258,own,3,C,hagrid->own,0,0,3,3
+259,own,4,C,hagrid->own,0,0,4,1
+260,own,0,C,hagrid->own,0,0,0,2
+261,own,1,C,hagrid->own,0,0,2,2
+262,own,2,C,hagrid->own,0,0,2,2
+263,own,3,C,hagrid->own,0,0,0,1
+264,own,4,C,hagrid->own,0,0,0,4
+265,own,0,C,hagrid->own,0,0,2,0
+266,own,1,C,hagrid->own,0,0,4,1
+267,own,2,C,hagrid->own,0,0,2,2
+268,own,3,C,hagrid->own,0,0,3,1
+269,own,4,C,hagrid->own,0,0,4,2
+270,own,0,C,hagrid->own,0,0,4,2
+271,own,1,C,hagrid->own,0,0,3,1
+272,own,2,C,hagrid->own,0,0,3,2
+273,own,3,C,hagrid->own,0,0,3,3
+274,own,4,C,hagrid->own,0,0,4,4
+275,own,0,C,hagrid->own,0,0,0,0
+276,own,1,C,hagrid->own,0,0,3,1
+277,own,2,C,hagrid->own,0,0,4,2
+278,own,3,C,hagrid->own,0,0,3,3
+279,own,4,C,hagrid->own,0,0,4,1
+280,own,0,C,hagrid->own,0,0,4,0
+281,own,1,C,hagrid->own,0,0,3,1
+282,own,2,C,hagrid->own,0,0,2,2
+283,own,3,C,hagrid->own,0,0,4,3
+284,own,4,C,hagrid->own,0,0,2,4
+285,own,0,C,hagrid->own,0,0,0,0
+286,own,1,C,hagrid->own,0,0,3,1
+287,own,2,C,hagrid->own,0,0,3,2
+288,own,3,C,hagrid->own,0,0,3,3
+289,own,4,C,hagrid->own,0,0,4,4
+290,own,0,C,hagrid->own,0,0,2,2
+291,own,1,C,hagrid->own,0,0,3,1
+292,own,2,C,hagrid->own,0,0,2,2
+293,own,3,C,hagrid->own,0,0,2,3
+294,own,4,C,hagrid->own,0,0,2,2
+295,own,0,C,hagrid->own,0,0,0,1
+296,own,1,C,hagrid->own,0,0,4,2
+297,own,2,C,hagrid->own,0,0,2,2
+298,own,3,C,hagrid->own,0,0,4,3
+299,own,4,C,hagrid->own,0,0,0,2
+300,own,0,C,hagrid->own,0,0,0,0
+301,own,1,C,hagrid->own,0,0,4,1
+302,own,2,C,hagrid->own,0,0,4,2
+303,own,3,C,hagrid->own,0,0,3,3
+304,own,4,C,hagrid->own,0,0,2,2
+305,own,0,C,hagrid->own,0,0,0,0
+306,own,1,C,hagrid->own,0,0,3,1
+307,own,2,C,hagrid->own,0,0,4,2
+308,own,3,C,hagrid->own,0,0,4,3
+309,own,4,C,hagrid->own,0,0,0,2
+310,own,0,C,hagrid->own,0,0,0,0
+311,own,1,C,hagrid->own,0,0,2,1
+312,own,2,C,hagrid->own,0,0,2,2
+313,own,3,C,hagrid->own,0,0,2,2
+314,own,4,C,hagrid->own,0,0,2,2
+315,own,0,C,hagrid->own,0,0,0,0
+316,own,1,C,hagrid->own,0,0,2,1
+317,own,2,C,hagrid->own,0,0,2,2
+318,own,3,C,hagrid->own,0,0,2,2
+319,own,4,C,hagrid->own,0,0,2,2
+320,own,0,C,hagrid->own,0,0,0,0
+321,own,1,C,hagrid->own,0,0,0,1
+322,own,2,C,hagrid->own,0,0,2,2
+323,own,3,C,hagrid->own,0,0,4,3
+324,own,4,C,hagrid->own,0,0,0,4
+325,own,0,C,hagrid->own,0,0,0,2
+326,own,1,C,hagrid->own,0,0,4,1
+327,own,2,C,hagrid->own,0,0,2,2
+328,own,3,C,hagrid->own,0,0,3,3
+329,own,4,C,hagrid->own,0,0,0,4
+330,own,0,C,hagrid->own,0,0,4,0
+331,own,1,C,hagrid->own,0,0,4,1
+332,own,2,C,hagrid->own,0,0,2,2
+333,own,3,C,hagrid->own,0,0,3,3
+334,own,4,C,hagrid->own,0,0,4,4
+335,own,0,C,hagrid->own,0,0,2,0
+336,own,1,C,hagrid->own,0,0,2,1
+337,own,2,C,hagrid->own,0,0,2,2
+338,own,3,C,hagrid->own,0,0,4,4
+339,own,4,C,hagrid->own,0,0,0,4
+340,own,0,C,hagrid->own,0,0,2,2
+341,own,1,C,hagrid->own,0,0,1,1
+342,own,2,C,hagrid->own,0,0,2,2
+343,own,3,C,hagrid->own,0,0,3,3
+344,own,4,C,hagrid->own,0,0,0,2
+345,own,0,C,hagrid->own,0,0,4,0
+346,own,1,C,hagrid->own,0,0,4,1
+347,own,2,C,hagrid->own,0,0,2,2
+348,own,3,C,hagrid->own,0,0,2,4
+349,own,4,C,hagrid->own,0,0,0,4
+350,own,0,C,hagrid->own,0,0,4,3
+351,own,1,C,hagrid->own,0,0,4,2
+352,own,2,C,hagrid->own,0,0,4,3
+353,own,3,C,hagrid->own,0,0,2,2
+354,own,4,C,hagrid->own,0,0,4,3
+355,own,0,C,hagrid->own,0,0,4,2
+356,own,1,C,hagrid->own,0,0,4,1
+357,own,2,C,hagrid->own,0,0,4,2
+358,own,3,C,hagrid->own,0,0,4,3
+359,own,4,C,hagrid->own,0,0,3,3
+360,own,0,C,hagrid->own,0,0,0,0
+361,own,1,C,hagrid->own,0,0,4,1
+362,own,2,C,hagrid->own,0,0,2,2
+363,own,3,C,hagrid->own,0,0,3,1
+364,own,4,C,hagrid->own,0,0,4,4
+365,own,0,C,hagrid->own,0,0,0,0
+366,own,1,C,hagrid->own,0,0,3,1
+367,own,2,C,hagrid->own,0,0,2,1
+368,own,3,C,hagrid->own,0,0,2,2
+369,own,4,C,hagrid->own,0,0,4,4
+370,own,0,C,hagrid->own,0,0,0,0
+371,own,1,C,hagrid->own,0,0,4,1
+372,own,2,C,hagrid->own,0,0,2,2
+373,own,3,C,hagrid->own,0,0,3,3
+374,own,4,C,hagrid->own,0,0,4,4
+375,own,0,C,hagrid->own,0,0,0,0
+376,own,1,C,hagrid->own,0,0,3,1
+377,own,2,C,hagrid->own,0,0,2,2
+378,own,3,C,hagrid->own,0,0,2,3
+379,own,4,C,hagrid->own,0,0,2,4
+380,own,0,C,hagrid->own,0,0,0,0
+381,own,1,C,hagrid->own,0,0,1,1
+382,own,2,C,hagrid->own,0,0,2,2
+383,own,3,C,hagrid->own,0,0,3,2
+384,own,4,C,hagrid->own,0,0,4,4
+385,own,0,C,hagrid->own,0,0,0,0
+386,own,1,C,hagrid->own,0,0,3,1
+387,own,2,C,hagrid->own,0,0,2,2
+388,own,3,C,hagrid->own,0,0,3,3
+389,own,4,C,hagrid->own,0,0,4,4
+390,own,0,C,hagrid->own,0,0,0,0
+391,own,1,C,hagrid->own,0,0,4,1
+392,own,2,C,hagrid->own,0,0,2,2
+393,own,3,C,hagrid->own,0,0,4,3
+394,own,4,C,hagrid->own,0,0,0,4
+395,own,0,C,hagrid->own,0,0,0,0
+396,own,1,C,hagrid->own,0,0,4,1
+397,own,2,C,hagrid->own,0,0,2,2
+398,own,3,C,hagrid->own,0,0,3,3
+399,own,4,C,hagrid->own,0,0,0,4
+400,own,0,C,hagrid->own,0,0,2,0
+401,own,1,C,hagrid->own,0,0,2,1
+402,own,2,C,hagrid->own,0,0,2,2
+403,own,3,C,hagrid->own,0,0,4,1
+404,own,4,C,hagrid->own,0,0,2,2
+405,own,0,C,hagrid->own,0,0,0,2
+406,own,1,C,hagrid->own,0,0,2,1
+407,own,2,C,hagrid->own,0,0,2,2
+408,own,3,C,hagrid->own,0,0,0,3
+409,own,4,C,hagrid->own,0,0,2,2
+410,own,0,C,hagrid->own,0,0,2,0
+411,own,1,C,hagrid->own,0,0,4,1
+412,own,2,C,hagrid->own,0,0,2,2
+413,own,3,C,hagrid->own,0,0,4,3
+414,own,4,C,hagrid->own,0,0,2,4
+415,own,0,C,hagrid->own,0,0,0,0
+416,own,1,C,hagrid->own,0,0,4,1
+417,own,2,C,hagrid->own,0,0,2,2
+418,own,4,C,hagrid->own,0,0,0,4
+419,own,3,C,hagrid->own,0,0,4,3
+420,own,0,C,hagrid->own,0,0,0,0
+421,own,1,C,hagrid->own,0,0,3,1
+422,own,2,C,hagrid->own,0,0,2,2
+423,own,3,C,hagrid->own,0,0,4,3
+424,own,4,C,hagrid->own,0,0,4,2
+425,own,0,C,hagrid->own,0,0,0,1
+426,own,1,C,hagrid->own,0,0,3,1
+427,own,2,C,hagrid->own,0,0,2,2
+428,own,3,C,hagrid->own,0,0,3,3
+429,own,4,C,hagrid->own,0,0,4,4
+430,own,0,C,hagrid->own,0,0,2,2
+431,own,1,C,hagrid->own,0,0,2,2
+432,own,2,C,hagrid->own,0,0,2,2
+433,own,3,C,hagrid->own,0,0,2,2
+434,own,4,C,hagrid->own,0,0,2,4
+435,own,0,C,hagrid->own,0,0,2,2
+436,own,1,C,hagrid->own,0,0,2,1
+437,own,2,C,hagrid->own,0,0,2,2
+438,own,3,C,hagrid->own,0,0,3,3
+439,own,4,C,hagrid->own,0,0,2,4
+440,own,0,C,hagrid->own,0,0,0,0
+441,own,1,C,hagrid->own,0,0,4,1
+442,own,2,C,hagrid->own,0,0,2,0
+443,own,3,C,hagrid->own,0,0,4,3
+444,own,4,C,hagrid->own,0,0,4,4
+445,own,0,C,hagrid->own,0,0,0,0
+446,own,1,C,hagrid->own,0,0,1,1
+447,own,2,C,hagrid->own,0,0,2,2
+448,own,3,C,hagrid->own,0,0,3,3
+449,own,4,C,hagrid->own,0,0,4,4
+450,own,0,C,hagrid->own,0,0,0,0
+451,own,1,C,hagrid->own,0,0,2,1
+452,own,2,C,hagrid->own,0,0,2,2
+453,own,3,C,hagrid->own,0,0,3,3
+454,own,4,C,hagrid->own,0,0,2,4
+455,own,0,C,hagrid->own,0,0,0,0
+456,own,1,C,hagrid->own,0,0,1,1
+457,own,2,C,hagrid->own,0,0,4,2
+458,own,4,C,hagrid->own,0,0,2,4
+459,own,3,C,hagrid->own,0,0,3,3
+460,own,0,C,hagrid->own,0,0,0,0
+461,own,1,C,hagrid->own,0,0,4,1
+462,own,2,C,hagrid->own,0,0,2,2
+463,own,3,C,hagrid->own,0,0,4,3
+464,own,4,C,hagrid->own,0,0,4,1
+465,own,0,C,hagrid->own,0,0,0,0
+466,own,1,C,hagrid->own,0,0,2,1
+467,own,2,C,hagrid->own,0,0,2,2
+468,own,3,C,hagrid->own,0,0,2,3
+469,own,0,C,hagrid->own,0,0,2,0
+470,own,1,C,hagrid->own,0,0,4,4
+471,own,2,C,hagrid->own,0,0,2,2
+472,own,0,C,hagrid->own,0,0,0,0
+473,own,1,C,hagrid->own,0,0,4,1
+474,own,2,C,hagrid->own,0,0,2,2
+475,own,3,C,hagrid->own,0,0,4,2
+476,own,4,C,hagrid->own,0,0,4,4
+477,own,0,C,hagrid->own,0,0,0,0
+478,own,1,C,hagrid->own,0,0,1,1
+479,own,2,C,hagrid->own,0,0,4,2
+480,own,3,C,hagrid->own,0,0,3,3
+481,own,4,C,hagrid->own,0,0,4,4
+482,own,0,C,hagrid->own,0,0,0,0
+483,own,1,C,hagrid->own,0,0,4,1
+484,own,2,C,hagrid->own,0,0,4,2
+485,own,3,C,hagrid->own,0,0,3,3
+486,own,4,C,hagrid->own,0,0,4,2
+487,own,3,C,hagrid->own,0,0,3,3
+488,own,0,C,hagrid->own,0,0,2,0
+489,own,1,C,hagrid->own,0,0,2,1
+490,own,2,C,hagrid->own,0,0,2,2
+491,own,3,C,hagrid->own,0,0,4,3
+492,own,4,C,hagrid->own,0,0,2,2
+493,own,0,C,hagrid->own,0,0,0,0
+494,own,1,C,hagrid->own,0,0,2,1
+495,own,2,C,hagrid->own,0,0,2,2
+496,own,4,C,hagrid->own,0,0,4,4
+497,own,3,C,hagrid->own,0,0,4,2
+498,own,4,C,hagrid->own,0,0,4,4
+499,own,4,C,hagrid->own,0,0,2,2
+0,hagrid,0,C,own->hagrid,0,0,0,1
+1,hagrid,0,C,own->hagrid,0,0,1,0
+2,hagrid,0,C,own->hagrid,0,0,1,2
+3,hagrid,0,C,own->hagrid,0,0,0,0
+4,hagrid,0,C,own->hagrid,0,0,4,0
+5,hagrid,0,C,own->hagrid,0,0,0,0
+6,hagrid,0,C,own->hagrid,0,0,4,3
+7,hagrid,0,C,own->hagrid,0,0,0,2
+8,hagrid,0,C,own->hagrid,0,0,4,0
+9,hagrid,0,C,own->hagrid,0,0,4,2
+10,hagrid,0,C,own->hagrid,0,0,1,0
+11,hagrid,0,C,own->hagrid,0,0,4,4
+12,hagrid,0,C,own->hagrid,0,0,0,0
+13,hagrid,0,C,own->hagrid,0,0,0,0
+14,hagrid,0,C,own->hagrid,0,0,1,2
+15,hagrid,0,C,own->hagrid,0,0,1,0
+16,hagrid,0,C,own->hagrid,0,0,4,2
+17,hagrid,0,C,own->hagrid,0,0,1,0
+18,hagrid,0,C,own->hagrid,0,0,4,0
+19,hagrid,0,C,own->hagrid,0,0,1,0
+20,hagrid,0,C,own->hagrid,0,0,0,0
+21,hagrid,0,C,own->hagrid,0,0,3,0
+22,hagrid,0,C,own->hagrid,0,0,1,0
+23,hagrid,0,C,own->hagrid,0,0,4,0
+24,hagrid,0,C,own->hagrid,0,0,4,2
+25,hagrid,0,C,own->hagrid,0,0,3,0
+26,hagrid,0,C,own->hagrid,0,0,1,0
+27,hagrid,0,C,own->hagrid,0,0,4,0
+28,hagrid,0,C,own->hagrid,0,0,4,2
+29,hagrid,0,C,own->hagrid,0,0,4,0
+30,hagrid,0,C,own->hagrid,0,0,1,0
+31,hagrid,0,C,own->hagrid,0,0,0,0
+32,hagrid,0,C,own->hagrid,0,0,1,0
+33,hagrid,0,C,own->hagrid,0,0,0,0
+34,hagrid,0,C,own->hagrid,0,0,0,0
+35,hagrid,0,C,own->hagrid,0,0,0,2
+36,hagrid,0,C,own->hagrid,0,0,4,0
+37,hagrid,0,C,own->hagrid,0,0,1,0
+38,hagrid,0,C,own->hagrid,0,0,2,0
+39,hagrid,0,C,own->hagrid,0,0,0,0
+40,hagrid,0,C,own->hagrid,0,0,4,0
+41,hagrid,0,C,own->hagrid,0,0,4,0
+42,hagrid,0,C,own->hagrid,0,0,0,0
+43,hagrid,0,C,own->hagrid,0,0,1,0
+44,hagrid,0,C,own->hagrid,0,0,0,2
+45,hagrid,0,C,own->hagrid,0,0,0,0
+46,hagrid,0,C,own->hagrid,0,0,0,0
+47,hagrid,0,C,own->hagrid,0,0,4,3
+48,hagrid,0,C,own->hagrid,0,0,0,0
+49,hagrid,0,C,own->hagrid,0,0,0,1
+50,hagrid,1,C,own->hagrid,0,0,1,1
+51,hagrid,1,C,own->hagrid,0,0,1,1
+52,hagrid,1,C,own->hagrid,0,0,3,1
+53,hagrid,1,C,own->hagrid,0,0,1,1
+54,hagrid,1,C,own->hagrid,0,0,1,1
+55,hagrid,1,C,own->hagrid,0,0,1,2
+56,hagrid,1,C,own->hagrid,0,0,1,1
+57,hagrid,1,C,own->hagrid,0,0,1,1
+58,hagrid,1,C,own->hagrid,0,0,1,1
+59,hagrid,1,C,own->hagrid,0,0,1,1
+60,hagrid,1,C,own->hagrid,0,0,1,1
+61,hagrid,1,C,own->hagrid,0,0,1,2
+62,hagrid,1,C,own->hagrid,0,0,1,1
+63,hagrid,1,C,own->hagrid,0,0,3,1
+64,hagrid,1,C,own->hagrid,0,0,1,1
+65,hagrid,1,C,own->hagrid,0,0,4,1
+66,hagrid,1,C,own->hagrid,0,0,1,1
+67,hagrid,1,C,own->hagrid,0,0,1,1
+68,hagrid,1,C,own->hagrid,0,0,1,2
+69,hagrid,1,C,own->hagrid,0,0,1,1
+70,hagrid,1,C,own->hagrid,0,0,1,1
+71,hagrid,1,C,own->hagrid,0,0,4,2
+72,hagrid,1,C,own->hagrid,0,0,4,2
+73,hagrid,1,C,own->hagrid,0,0,1,1
+74,hagrid,1,C,own->hagrid,0,0,1,1
+75,hagrid,1,C,own->hagrid,0,0,1,2
+76,hagrid,1,C,own->hagrid,0,0,1,1
+77,hagrid,1,C,own->hagrid,0,0,1,1
+78,hagrid,1,C,own->hagrid,0,0,4,1
+79,hagrid,1,C,own->hagrid,0,0,1,1
+80,hagrid,1,C,own->hagrid,0,0,1,1
+81,hagrid,1,C,own->hagrid,0,0,1,1
+82,hagrid,1,C,own->hagrid,0,0,1,1
+83,hagrid,1,C,own->hagrid,0,0,1,1
+84,hagrid,1,C,own->hagrid,0,0,1,1
+85,hagrid,1,C,own->hagrid,0,0,1,1
+86,hagrid,1,C,own->hagrid,0,0,1,2
+87,hagrid,1,C,own->hagrid,0,0,1,1
+88,hagrid,1,C,own->hagrid,0,0,1,2
+89,hagrid,1,C,own->hagrid,0,0,1,1
+90,hagrid,1,C,own->hagrid,0,0,1,1
+91,hagrid,1,C,own->hagrid,0,0,1,2
+92,hagrid,1,C,own->hagrid,0,0,1,1
+93,hagrid,1,C,own->hagrid,0,0,1,2
+94,hagrid,1,C,own->hagrid,0,0,1,1
+95,hagrid,1,C,own->hagrid,0,0,1,1
+96,hagrid,1,C,own->hagrid,0,0,1,1
+97,hagrid,1,C,own->hagrid,0,0,1,1
+98,hagrid,1,C,own->hagrid,0,0,1,1
+99,hagrid,1,C,own->hagrid,0,0,1,1
+100,hagrid,2,C,own->hagrid,0,0,2,2
+101,hagrid,2,C,own->hagrid,0,0,2,2
+102,hagrid,2,C,own->hagrid,0,0,2,2
+103,hagrid,2,C,own->hagrid,0,0,2,2
+104,hagrid,2,C,own->hagrid,0,0,2,2
+105,hagrid,2,C,own->hagrid,0,0,2,2
+106,hagrid,2,C,own->hagrid,0,0,2,2
+107,hagrid,2,C,own->hagrid,0,0,2,2
+108,hagrid,2,C,own->hagrid,0,0,2,2
+109,hagrid,2,C,own->hagrid,0,0,2,2
+110,hagrid,2,C,own->hagrid,0,0,0,2
+111,hagrid,2,C,own->hagrid,0,0,2,2
+112,hagrid,2,C,own->hagrid,0,0,2,2
+113,hagrid,2,C,own->hagrid,0,0,2,2
+114,hagrid,2,C,own->hagrid,0,0,2,2
+115,hagrid,2,C,own->hagrid,0,0,2,2
+116,hagrid,2,C,own->hagrid,0,0,1,2
+117,hagrid,2,C,own->hagrid,0,0,2,2
+118,hagrid,2,C,own->hagrid,0,0,2,2
+119,hagrid,2,C,own->hagrid,0,0,1,2
+120,hagrid,2,C,own->hagrid,0,0,2,2
+121,hagrid,2,C,own->hagrid,0,0,2,2
+122,hagrid,2,C,own->hagrid,0,0,2,2
+123,hagrid,2,C,own->hagrid,0,0,2,2
+124,hagrid,2,C,own->hagrid,0,0,4,2
+125,hagrid,2,C,own->hagrid,0,0,2,2
+126,hagrid,2,C,own->hagrid,0,0,2,2
+127,hagrid,2,C,own->hagrid,0,0,2,2
+128,hagrid,2,C,own->hagrid,0,0,2,2
+129,hagrid,2,C,own->hagrid,0,0,2,2
+130,hagrid,2,C,own->hagrid,0,0,2,2
+131,hagrid,2,C,own->hagrid,0,0,2,2
+132,hagrid,2,C,own->hagrid,0,0,2,2
+133,hagrid,2,C,own->hagrid,0,0,1,4
+134,hagrid,2,C,own->hagrid,0,0,2,2
+135,hagrid,2,C,own->hagrid,0,0,2,2
+136,hagrid,2,C,own->hagrid,0,0,1,2
+137,hagrid,2,C,own->hagrid,0,0,1,2
+138,hagrid,2,C,own->hagrid,0,0,2,2
+139,hagrid,2,C,own->hagrid,0,0,2,2
+140,hagrid,2,C,own->hagrid,0,0,2,2
+141,hagrid,2,C,own->hagrid,0,0,4,2
+142,hagrid,2,C,own->hagrid,0,0,2,2
+143,hagrid,2,C,own->hagrid,0,0,2,2
+144,hagrid,2,C,own->hagrid,0,0,4,2
+145,hagrid,2,C,own->hagrid,0,0,2,2
+146,hagrid,2,C,own->hagrid,0,0,2,2
+147,hagrid,2,C,own->hagrid,0,0,2,2
+148,hagrid,2,C,own->hagrid,0,0,2,2
+149,hagrid,2,C,own->hagrid,0,0,2,2
+150,hagrid,3,C,own->hagrid,0,0,1,3
+151,hagrid,3,C,own->hagrid,0,0,1,3
+152,hagrid,3,C,own->hagrid,0,0,3,3
+153,hagrid,3,C,own->hagrid,0,0,3,3
+154,hagrid,3,C,own->hagrid,0,0,3,3
+155,hagrid,3,C,own->hagrid,0,0,1,3
+156,hagrid,3,C,own->hagrid,0,0,3,3
+157,hagrid,3,C,own->hagrid,0,0,1,3
+158,hagrid,3,C,own->hagrid,0,0,1,3
+159,hagrid,3,C,own->hagrid,0,0,3,3
+160,hagrid,3,C,own->hagrid,0,0,3,3
+161,hagrid,3,C,own->hagrid,0,0,3,3
+162,hagrid,3,C,own->hagrid,0,0,3,3
+163,hagrid,3,C,own->hagrid,0,0,3,3
+164,hagrid,3,C,own->hagrid,0,0,3,3
+165,hagrid,3,C,own->hagrid,0,0,1,2
+166,hagrid,3,C,own->hagrid,0,0,3,3
+167,hagrid,3,C,own->hagrid,0,0,3,3
+168,hagrid,3,C,own->hagrid,0,0,3,3
+169,hagrid,3,C,own->hagrid,0,0,3,3
+170,hagrid,3,C,own->hagrid,0,0,1,3
+171,hagrid,3,C,own->hagrid,0,0,3,3
+172,hagrid,3,C,own->hagrid,0,0,3,3
+173,hagrid,3,C,own->hagrid,0,0,3,3
+174,hagrid,3,C,own->hagrid,0,0,3,3
+175,hagrid,3,C,own->hagrid,0,0,3,3
+176,hagrid,3,C,own->hagrid,0,0,3,3
+177,hagrid,3,C,own->hagrid,0,0,1,3
+178,hagrid,3,C,own->hagrid,0,0,3,3
+179,hagrid,3,C,own->hagrid,0,0,3,3
+180,hagrid,3,C,own->hagrid,0,0,1,2
+181,hagrid,3,C,own->hagrid,0,0,3,3
+182,hagrid,3,C,own->hagrid,0,0,3,3
+183,hagrid,3,C,own->hagrid,0,0,3,3
+184,hagrid,3,C,own->hagrid,0,0,4,3
+185,hagrid,3,C,own->hagrid,0,0,1,4
+186,hagrid,3,C,own->hagrid,0,0,1,3
+187,hagrid,3,C,own->hagrid,0,0,3,2
+188,hagrid,3,C,own->hagrid,0,0,1,3
+189,hagrid,3,C,own->hagrid,0,0,3,3
+190,hagrid,3,C,own->hagrid,0,0,3,3
+191,hagrid,3,C,own->hagrid,0,0,3,3
+192,hagrid,3,C,own->hagrid,0,0,3,3
+193,hagrid,3,C,own->hagrid,0,0,3,3
+194,hagrid,3,C,own->hagrid,0,0,3,3
+195,hagrid,3,C,own->hagrid,0,0,3,3
+196,hagrid,3,C,own->hagrid,0,0,3,3
+197,hagrid,3,C,own->hagrid,0,0,3,3
+198,hagrid,3,C,own->hagrid,0,0,1,3
+199,hagrid,3,C,own->hagrid,0,0,3,3
+200,hagrid,4,C,own->hagrid,0,0,3,4
+201,hagrid,4,C,own->hagrid,0,0,2,3
+202,hagrid,4,C,own->hagrid,0,0,1,3
+203,hagrid,4,C,own->hagrid,0,0,1,3
+204,hagrid,4,C,own->hagrid,0,0,4,3
+205,hagrid,4,C,own->hagrid,0,0,3,4
+206,hagrid,4,C,own->hagrid,0,0,3,1
+207,hagrid,4,C,own->hagrid,0,0,3,4
+208,hagrid,4,C,own->hagrid,0,0,1,3
+209,hagrid,4,C,own->hagrid,0,0,4,4
+210,hagrid,4,C,own->hagrid,0,0,3,3
+211,hagrid,4,C,own->hagrid,0,0,1,4
+212,hagrid,4,C,own->hagrid,0,0,3,3
+213,hagrid,4,C,own->hagrid,0,0,4,1
+214,hagrid,4,C,own->hagrid,0,0,1,3
+215,hagrid,4,C,own->hagrid,0,0,4,4
+216,hagrid,4,C,own->hagrid,0,0,1,3
+217,hagrid,4,C,own->hagrid,0,0,4,4
+218,hagrid,4,C,own->hagrid,0,0,3,3
+219,hagrid,4,C,own->hagrid,0,0,4,4
+220,hagrid,4,C,own->hagrid,0,0,3,3
+221,hagrid,4,C,own->hagrid,0,0,3,3
+222,hagrid,4,C,own->hagrid,0,0,1,4
+223,hagrid,4,C,own->hagrid,0,0,4,3
+224,hagrid,4,C,own->hagrid,0,0,1,3
+225,hagrid,4,C,own->hagrid,0,0,3,3
+226,hagrid,4,C,own->hagrid,0,0,3,4
+227,hagrid,4,C,own->hagrid,0,0,1,3
+228,hagrid,4,C,own->hagrid,0,0,4,4
+229,hagrid,4,C,own->hagrid,0,0,3,4
+230,hagrid,4,C,own->hagrid,0,0,1,4
+231,hagrid,4,C,own->hagrid,0,0,4,4
+232,hagrid,4,C,own->hagrid,0,0,3,3
+233,hagrid,4,C,own->hagrid,0,0,4,4
+234,hagrid,4,C,own->hagrid,0,0,1,3
+235,hagrid,4,C,own->hagrid,0,0,3,3
+236,hagrid,4,C,own->hagrid,0,0,3,3
+237,hagrid,4,C,own->hagrid,0,0,4,4
+238,hagrid,4,C,own->hagrid,0,0,1,3
+239,hagrid,4,C,own->hagrid,0,0,1,3
+240,hagrid,4,C,own->hagrid,0,0,1,4
+241,hagrid,4,C,own->hagrid,0,0,3,4
+242,hagrid,4,C,own->hagrid,0,0,3,3
+243,hagrid,4,C,own->hagrid,0,0,3,4
+244,hagrid,4,C,own->hagrid,0,0,3,3
+245,hagrid,4,C,own->hagrid,0,0,1,3
+246,hagrid,4,C,own->hagrid,0,0,3,4
+247,hagrid,4,C,own->hagrid,0,0,1,1
+248,hagrid,4,C,own->hagrid,0,0,1,3
+249,hagrid,4,C,own->hagrid,0,0,3,3
+250,own,0,C,"hagrid->own, no low-res aug",0,0,4,0
+251,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+252,own,2,C,"hagrid->own, no low-res aug",0,0,2,1
+253,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+254,own,4,C,"hagrid->own, no low-res aug",0,0,4,2
+255,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+256,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+257,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+258,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+259,own,4,C,"hagrid->own, no low-res aug",0,0,4,1
+260,own,0,C,"hagrid->own, no low-res aug",0,0,0,2
+261,own,1,C,"hagrid->own, no low-res aug",0,0,2,2
+262,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+263,own,3,C,"hagrid->own, no low-res aug",0,0,0,1
+264,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+265,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+266,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+267,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+268,own,3,C,"hagrid->own, no low-res aug",0,0,3,1
+269,own,4,C,"hagrid->own, no low-res aug",0,0,4,2
+270,own,0,C,"hagrid->own, no low-res aug",0,0,4,0
+271,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+272,own,2,C,"hagrid->own, no low-res aug",0,0,3,2
+273,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+274,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+275,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+276,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+277,own,2,C,"hagrid->own, no low-res aug",0,0,4,1
+278,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+279,own,4,C,"hagrid->own, no low-res aug",0,0,4,1
+280,own,0,C,"hagrid->own, no low-res aug",0,0,4,0
+281,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+282,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+283,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+284,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+285,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+286,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+287,own,2,C,"hagrid->own, no low-res aug",0,0,3,2
+288,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+289,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+290,own,0,C,"hagrid->own, no low-res aug",0,0,2,2
+291,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+292,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+293,own,3,C,"hagrid->own, no low-res aug",0,0,2,3
+294,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+295,own,0,C,"hagrid->own, no low-res aug",0,0,0,1
+296,own,1,C,"hagrid->own, no low-res aug",0,0,4,2
+297,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+298,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+299,own,4,C,"hagrid->own, no low-res aug",0,0,0,2
+300,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+301,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+302,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+303,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+304,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+305,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+306,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+307,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+308,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+309,own,4,C,"hagrid->own, no low-res aug",0,0,0,2
+310,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+311,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+312,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+313,own,3,C,"hagrid->own, no low-res aug",0,0,2,2
+314,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+315,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+316,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+317,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+318,own,3,C,"hagrid->own, no low-res aug",0,0,2,3
+319,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+320,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+321,own,1,C,"hagrid->own, no low-res aug",0,0,0,1
+322,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+323,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+324,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+325,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+326,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+327,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+328,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+329,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+330,own,0,C,"hagrid->own, no low-res aug",0,0,4,0
+331,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+332,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+333,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+334,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+335,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+336,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+337,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+338,own,3,C,"hagrid->own, no low-res aug",0,0,4,4
+339,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+340,own,0,C,"hagrid->own, no low-res aug",0,0,2,2
+341,own,1,C,"hagrid->own, no low-res aug",0,0,1,1
+342,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+343,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+344,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+345,own,0,C,"hagrid->own, no low-res aug",0,0,4,0
+346,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+347,own,2,C,"hagrid->own, no low-res aug",0,0,2,1
+348,own,3,C,"hagrid->own, no low-res aug",0,0,2,4
+349,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+350,own,0,C,"hagrid->own, no low-res aug",0,0,4,3
+351,own,1,C,"hagrid->own, no low-res aug",0,0,4,2
+352,own,2,C,"hagrid->own, no low-res aug",0,0,4,3
+353,own,3,C,"hagrid->own, no low-res aug",0,0,2,2
+354,own,4,C,"hagrid->own, no low-res aug",0,0,4,3
+355,own,0,C,"hagrid->own, no low-res aug",0,0,4,2
+356,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+357,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+358,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+359,own,4,C,"hagrid->own, no low-res aug",0,0,3,3
+360,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+361,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+362,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+363,own,3,C,"hagrid->own, no low-res aug",0,0,3,1
+364,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+365,own,0,C,"hagrid->own, no low-res aug",0,0,0,3
+366,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+367,own,2,C,"hagrid->own, no low-res aug",0,0,2,1
+368,own,3,C,"hagrid->own, no low-res aug",0,0,2,2
+369,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+370,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+371,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+372,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+373,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+374,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+375,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+376,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+377,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+378,own,3,C,"hagrid->own, no low-res aug",0,0,2,3
+379,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+380,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+381,own,1,C,"hagrid->own, no low-res aug",0,0,1,1
+382,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+383,own,3,C,"hagrid->own, no low-res aug",0,0,3,1
+384,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+385,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+386,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+387,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+388,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+389,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+390,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+391,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+392,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+393,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+394,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+395,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+396,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+397,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+398,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+399,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+400,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+401,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+402,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+403,own,3,C,"hagrid->own, no low-res aug",0,0,4,1
+404,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+405,own,0,C,"hagrid->own, no low-res aug",0,0,0,2
+406,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+407,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+408,own,3,C,"hagrid->own, no low-res aug",0,0,0,3
+409,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+410,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+411,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+412,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+413,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+414,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+415,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+416,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+417,own,2,C,"hagrid->own, no low-res aug",0,0,2,1
+418,own,4,C,"hagrid->own, no low-res aug",0,0,0,4
+419,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+420,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+421,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+422,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+423,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+424,own,4,C,"hagrid->own, no low-res aug",0,0,4,2
+425,own,0,C,"hagrid->own, no low-res aug",0,0,0,1
+426,own,1,C,"hagrid->own, no low-res aug",0,0,3,1
+427,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+428,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+429,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+430,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+431,own,1,C,"hagrid->own, no low-res aug",0,0,2,2
+432,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+433,own,3,C,"hagrid->own, no low-res aug",0,0,2,3
+434,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+435,own,0,C,"hagrid->own, no low-res aug",0,0,2,2
+436,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+437,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+438,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+439,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+440,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+441,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+442,own,2,C,"hagrid->own, no low-res aug",0,0,2,0
+443,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+444,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+445,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+446,own,1,C,"hagrid->own, no low-res aug",0,0,1,1
+447,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+448,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+449,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+450,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+451,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+452,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+453,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+454,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+455,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+456,own,1,C,"hagrid->own, no low-res aug",0,0,1,1
+457,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+458,own,4,C,"hagrid->own, no low-res aug",0,0,2,4
+459,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+460,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+461,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+462,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+463,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+464,own,4,C,"hagrid->own, no low-res aug",0,0,4,1
+465,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+466,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+467,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+468,own,3,C,"hagrid->own, no low-res aug",0,0,2,3
+469,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+470,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+471,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+472,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+473,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+474,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+475,own,3,C,"hagrid->own, no low-res aug",0,0,4,1
+476,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+477,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+478,own,1,C,"hagrid->own, no low-res aug",0,0,1,1
+479,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+480,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+481,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+482,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+483,own,1,C,"hagrid->own, no low-res aug",0,0,4,1
+484,own,2,C,"hagrid->own, no low-res aug",0,0,4,2
+485,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+486,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+487,own,3,C,"hagrid->own, no low-res aug",0,0,3,3
+488,own,0,C,"hagrid->own, no low-res aug",0,0,2,0
+489,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+490,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+491,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+492,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+493,own,0,C,"hagrid->own, no low-res aug",0,0,0,0
+494,own,1,C,"hagrid->own, no low-res aug",0,0,2,1
+495,own,2,C,"hagrid->own, no low-res aug",0,0,2,2
+496,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+497,own,3,C,"hagrid->own, no low-res aug",0,0,4,3
+498,own,4,C,"hagrid->own, no low-res aug",0,0,4,4
+499,own,4,C,"hagrid->own, no low-res aug",0,0,2,2
+18,hagrid,0,C,hagrid in-domain CV,0,1,2,0
+21,hagrid,0,C,hagrid in-domain CV,0,1,0,0
+24,hagrid,0,C,hagrid in-domain CV,0,1,0,0
+36,hagrid,0,C,hagrid in-domain CV,0,1,0,0
+40,hagrid,0,C,hagrid in-domain CV,0,1,0,0
+43,hagrid,0,C,hagrid in-domain CV,0,1,0,0
+46,hagrid,0,C,hagrid in-domain CV,0,1,2,0
+50,hagrid,1,C,hagrid in-domain CV,0,1,0,1
+73,hagrid,1,C,hagrid in-domain CV,0,1,1,1
+74,hagrid,1,C,hagrid in-domain CV,0,1,1,1
+75,hagrid,1,C,hagrid in-domain CV,0,1,1,1
+77,hagrid,1,C,hagrid in-domain CV,0,1,1,1
+79,hagrid,1,C,hagrid in-domain CV,0,1,1,1
+92,hagrid,1,C,hagrid in-domain CV,0,1,4,1
+102,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+106,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+116,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+119,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+124,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+126,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+128,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+133,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+134,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+136,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+139,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+149,hagrid,2,C,hagrid in-domain CV,0,1,2,2
+150,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+152,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+157,hagrid,3,C,hagrid in-domain CV,0,1,4,3
+161,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+164,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+167,hagrid,3,C,hagrid in-domain CV,0,1,2,4
+168,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+169,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+176,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+184,hagrid,3,C,hagrid in-domain CV,0,1,0,3
+191,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+196,hagrid,3,C,hagrid in-domain CV,0,1,3,3
+202,hagrid,4,C,hagrid in-domain CV,0,1,3,4
+204,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+214,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+220,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+222,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+230,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+233,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+238,hagrid,4,C,hagrid in-domain CV,0,1,4,3
+249,hagrid,4,C,hagrid in-domain CV,0,1,4,4
+0,hagrid,0,C,hagrid in-domain CV,0,2,0,1
+1,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+5,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+9,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+12,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+26,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+27,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+37,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+42,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+45,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+49,hagrid,0,C,hagrid in-domain CV,0,2,0,0
+52,hagrid,1,C,hagrid in-domain CV,0,2,3,1
+53,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+59,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+61,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+80,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+83,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+89,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+93,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+95,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+97,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+98,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+99,hagrid,1,C,hagrid in-domain CV,0,2,1,1
+101,hagrid,2,C,hagrid in-domain CV,0,2,2,2
+113,hagrid,2,C,hagrid in-domain CV,0,2,2,2
+135,hagrid,2,C,hagrid in-domain CV,0,2,2,2
+141,hagrid,2,C,hagrid in-domain CV,0,2,4,2
+147,hagrid,2,C,hagrid in-domain CV,0,2,2,2
+153,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+155,hagrid,3,C,hagrid in-domain CV,0,2,1,3
+162,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+166,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+170,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+180,hagrid,3,C,hagrid in-domain CV,0,2,4,2
+189,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+190,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+192,hagrid,3,C,hagrid in-domain CV,0,2,4,4
+193,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+194,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+195,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+198,hagrid,3,C,hagrid in-domain CV,0,2,3,3
+203,hagrid,4,C,hagrid in-domain CV,0,2,1,3
+208,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+210,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+211,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+215,hagrid,4,C,hagrid in-domain CV,0,2,0,4
+219,hagrid,4,C,hagrid in-domain CV,0,2,4,3
+224,hagrid,4,C,hagrid in-domain CV,0,2,4,3
+225,hagrid,4,C,hagrid in-domain CV,0,2,1,4
+226,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+227,hagrid,4,C,hagrid in-domain CV,0,2,2,4
+236,hagrid,4,C,hagrid in-domain CV,0,2,3,4
+241,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+244,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+248,hagrid,4,C,hagrid in-domain CV,0,2,4,4
+2,hagrid,0,C,hagrid in-domain CV,0,3,3,4
+16,hagrid,0,C,hagrid in-domain CV,0,3,0,4
+28,hagrid,0,C,hagrid in-domain CV,0,3,0,0
+29,hagrid,0,C,hagrid in-domain CV,0,3,0,0
+32,hagrid,0,C,hagrid in-domain CV,0,3,3,4
+34,hagrid,0,C,hagrid in-domain CV,0,3,0,0
+35,hagrid,0,C,hagrid in-domain CV,0,3,0,0
+38,hagrid,0,C,hagrid in-domain CV,0,3,0,2
+48,hagrid,0,C,hagrid in-domain CV,0,3,0,0
+51,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+54,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+57,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+60,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+63,hagrid,1,C,hagrid in-domain CV,0,3,2,3
+65,hagrid,1,C,hagrid in-domain CV,0,3,2,1
+71,hagrid,1,C,hagrid in-domain CV,0,3,0,1
+72,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+78,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+87,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+88,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+94,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+96,hagrid,1,C,hagrid in-domain CV,0,3,1,1
+100,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+104,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+107,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+108,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+112,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+114,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+118,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+121,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+127,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+143,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+146,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+148,hagrid,2,C,hagrid in-domain CV,0,3,2,2
+151,hagrid,3,C,hagrid in-domain CV,0,3,3,3
+154,hagrid,3,C,hagrid in-domain CV,0,3,3,3
+159,hagrid,3,C,hagrid in-domain CV,0,3,3,3
+175,hagrid,3,C,hagrid in-domain CV,0,3,3,3
+187,hagrid,3,C,hagrid in-domain CV,0,3,3,1
+197,hagrid,3,C,hagrid in-domain CV,0,3,3,3
+201,hagrid,4,C,hagrid in-domain CV,0,3,4,0
+207,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+209,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+216,hagrid,4,C,hagrid in-domain CV,0,3,4,0
+217,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+218,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+221,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+232,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+245,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+246,hagrid,4,C,hagrid in-domain CV,0,3,4,4
+7,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+8,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+10,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+11,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+19,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+23,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+30,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+33,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+39,hagrid,0,C,hagrid in-domain CV,0,4,0,1
+41,hagrid,0,C,hagrid in-domain CV,0,4,0,0
+47,hagrid,0,C,hagrid in-domain CV,0,4,0,1
+55,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+58,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+62,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+67,hagrid,1,C,hagrid in-domain CV,0,4,0,1
+69,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+76,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+81,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+86,hagrid,1,C,hagrid in-domain CV,0,4,1,1
+103,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+109,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+117,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+122,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+123,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+125,hagrid,2,C,hagrid in-domain CV,0,4,2,1
+129,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+131,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+137,hagrid,2,C,hagrid in-domain CV,0,4,2,2
+163,hagrid,3,C,hagrid in-domain CV,0,4,3,3
+165,hagrid,3,C,hagrid in-domain CV,0,4,4,2
+172,hagrid,3,C,hagrid in-domain CV,0,4,4,3
+173,hagrid,3,C,hagrid in-domain CV,0,4,4,3
+174,hagrid,3,C,hagrid in-domain CV,0,4,3,3
+177,hagrid,3,C,hagrid in-domain CV,0,4,3,3
+178,hagrid,3,C,hagrid in-domain CV,0,4,4,3
+186,hagrid,3,C,hagrid in-domain CV,0,4,1,3
+205,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+212,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+213,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+223,hagrid,4,C,hagrid in-domain CV,0,4,2,4
+231,hagrid,4,C,hagrid in-domain CV,0,4,4,1
+234,hagrid,4,C,hagrid in-domain CV,0,4,1,4
+235,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+237,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+239,hagrid,4,C,hagrid in-domain CV,0,4,3,4
+240,hagrid,4,C,hagrid in-domain CV,0,4,0,4
+242,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+247,hagrid,4,C,hagrid in-domain CV,0,4,4,4
+3,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+4,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+6,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+13,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+14,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+15,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+17,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+20,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+22,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+25,hagrid,0,C,hagrid in-domain CV,0,5,4,0
+31,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+44,hagrid,0,C,hagrid in-domain CV,0,5,0,0
+56,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+64,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+66,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+68,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+70,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+82,hagrid,1,C,hagrid in-domain CV,0,5,4,1
+84,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+85,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+90,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+91,hagrid,1,C,hagrid in-domain CV,0,5,1,1
+105,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+110,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+111,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+115,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+120,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+130,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+132,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+138,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+140,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+142,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+144,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+145,hagrid,2,C,hagrid in-domain CV,0,5,2,2
+156,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+158,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+160,hagrid,3,C,hagrid in-domain CV,0,5,4,3
+171,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+179,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+181,hagrid,3,C,hagrid in-domain CV,0,5,4,2
+182,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+183,hagrid,3,C,hagrid in-domain CV,0,5,4,3
+185,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+188,hagrid,3,C,hagrid in-domain CV,0,5,4,3
+199,hagrid,3,C,hagrid in-domain CV,0,5,3,3
+200,hagrid,4,C,hagrid in-domain CV,0,5,4,4
+206,hagrid,4,C,hagrid in-domain CV,0,5,4,3
+228,hagrid,4,C,hagrid in-domain CV,0,5,4,4
+229,hagrid,4,C,hagrid in-domain CV,0,5,4,4
+243,hagrid,4,C,hagrid in-domain CV,0,5,4,4
+250,own,0,C,own in-domain CV,0,1,0,0
+251,own,1,C,own in-domain CV,0,1,3,1
+252,own,2,C,own in-domain CV,0,1,2,2
+253,own,3,C,own in-domain CV,0,1,3,3
+254,own,4,C,own in-domain CV,0,1,4,4
+255,own,0,C,own in-domain CV,0,1,0,0
+256,own,1,C,own in-domain CV,0,1,1,1
+257,own,2,C,own in-domain CV,0,1,2,2
+258,own,3,C,own in-domain CV,0,1,3,3
+259,own,4,C,own in-domain CV,0,1,4,4
+340,own,0,C,own in-domain CV,0,1,0,0
+341,own,1,C,own in-domain CV,0,1,1,1
+342,own,2,C,own in-domain CV,0,1,2,4
+343,own,3,C,own in-domain CV,0,1,3,3
+344,own,4,C,own in-domain CV,0,1,0,4
+345,own,0,C,own in-domain CV,0,1,0,0
+346,own,1,C,own in-domain CV,0,1,3,1
+347,own,2,C,own in-domain CV,0,1,2,4
+348,own,3,C,own in-domain CV,0,1,3,3
+349,own,4,C,own in-domain CV,0,1,4,4
+350,own,0,C,own in-domain CV,0,1,3,4
+351,own,1,C,own in-domain CV,0,1,3,4
+352,own,2,C,own in-domain CV,0,1,2,4
+353,own,3,C,own in-domain CV,0,1,3,2
+354,own,4,C,own in-domain CV,0,1,2,4
+355,own,0,C,own in-domain CV,0,1,3,4
+356,own,1,C,own in-domain CV,0,1,1,1
+357,own,2,C,own in-domain CV,0,1,4,2
+358,own,3,C,own in-domain CV,0,1,4,4
+359,own,4,C,own in-domain CV,0,1,4,3
+400,own,0,C,own in-domain CV,0,1,0,0
+401,own,1,C,own in-domain CV,0,1,1,1
+402,own,2,C,own in-domain CV,0,1,2,2
+403,own,3,C,own in-domain CV,0,1,3,3
+404,own,4,C,own in-domain CV,0,1,4,4
+405,own,0,C,own in-domain CV,0,1,0,0
+406,own,1,C,own in-domain CV,0,1,2,1
+407,own,2,C,own in-domain CV,0,1,2,2
+408,own,3,C,own in-domain CV,0,1,0,3
+409,own,4,C,own in-domain CV,0,1,4,4
+260,own,0,C,own in-domain CV,0,2,0,0
+261,own,1,C,own in-domain CV,0,2,4,1
+262,own,2,C,own in-domain CV,0,2,2,2
+263,own,3,C,own in-domain CV,0,2,3,1
+264,own,4,C,own in-domain CV,0,2,4,4
+265,own,0,C,own in-domain CV,0,2,0,0
+266,own,1,C,own in-domain CV,0,2,1,1
+267,own,2,C,own in-domain CV,0,2,2,2
+268,own,3,C,own in-domain CV,0,2,3,3
+269,own,4,C,own in-domain CV,0,2,4,4
+300,own,0,C,own in-domain CV,0,2,0,0
+301,own,1,C,own in-domain CV,0,2,1,1
+302,own,2,C,own in-domain CV,0,2,2,2
+303,own,3,C,own in-domain CV,0,2,3,1
+304,own,4,C,own in-domain CV,0,2,4,4
+305,own,0,C,own in-domain CV,0,2,0,0
+306,own,1,C,own in-domain CV,0,2,1,1
+307,own,2,C,own in-domain CV,0,2,2,2
+308,own,3,C,own in-domain CV,0,2,3,3
+309,own,4,C,own in-domain CV,0,2,4,4
+360,own,0,C,own in-domain CV,0,2,0,0
+361,own,1,C,own in-domain CV,0,2,1,1
+362,own,2,C,own in-domain CV,0,2,2,2
+363,own,3,C,own in-domain CV,0,2,3,3
+364,own,4,C,own in-domain CV,0,2,4,4
+365,own,0,C,own in-domain CV,0,2,0,0
+366,own,1,C,own in-domain CV,0,2,1,1
+367,own,2,C,own in-domain CV,0,2,2,2
+368,own,3,C,own in-domain CV,0,2,3,3
+369,own,4,C,own in-domain CV,0,2,4,4
+440,own,0,C,own in-domain CV,0,2,0,0
+441,own,1,C,own in-domain CV,0,2,1,1
+442,own,2,C,own in-domain CV,0,2,2,2
+443,own,3,C,own in-domain CV,0,2,3,3
+444,own,4,C,own in-domain CV,0,2,4,4
+445,own,0,C,own in-domain CV,0,2,0,0
+446,own,1,C,own in-domain CV,0,2,1,1
+447,own,2,C,own in-domain CV,0,2,2,2
+448,own,3,C,own in-domain CV,0,2,3,3
+449,own,4,C,own in-domain CV,0,2,4,4
+450,own,0,C,own in-domain CV,0,2,0,0
+451,own,1,C,own in-domain CV,0,2,1,1
+452,own,2,C,own in-domain CV,0,2,2,2
+453,own,3,C,own in-domain CV,0,2,3,3
+454,own,4,C,own in-domain CV,0,2,4,4
+455,own,0,C,own in-domain CV,0,2,0,0
+456,own,1,C,own in-domain CV,0,2,1,1
+457,own,2,C,own in-domain CV,0,2,2,2
+458,own,4,C,own in-domain CV,0,2,4,4
+459,own,3,C,own in-domain CV,0,2,3,3
+469,own,0,C,own in-domain CV,0,2,0,0
+470,own,1,C,own in-domain CV,0,2,1,3
+471,own,2,C,own in-domain CV,0,2,2,2
+472,own,0,C,own in-domain CV,0,2,0,0
+473,own,1,C,own in-domain CV,0,2,1,1
+474,own,2,C,own in-domain CV,0,2,2,2
+475,own,3,C,own in-domain CV,0,2,1,3
+476,own,4,C,own in-domain CV,0,2,4,4
+477,own,0,C,own in-domain CV,0,2,0,0
+478,own,1,C,own in-domain CV,0,2,1,1
+479,own,2,C,own in-domain CV,0,2,2,2
+480,own,3,C,own in-domain CV,0,2,3,3
+481,own,4,C,own in-domain CV,0,2,4,4
+482,own,0,C,own in-domain CV,0,2,0,0
+483,own,1,C,own in-domain CV,0,2,1,1
+484,own,2,C,own in-domain CV,0,2,2,2
+485,own,3,C,own in-domain CV,0,2,3,3
+486,own,4,C,own in-domain CV,0,2,4,4
+487,own,3,C,own in-domain CV,0,2,3,3
+498,own,4,C,own in-domain CV,0,2,4,4
+270,own,0,C,own in-domain CV,0,3,0,0
+271,own,1,C,own in-domain CV,0,3,1,1
+272,own,2,C,own in-domain CV,0,3,2,0
+273,own,3,C,own in-domain CV,0,3,3,3
+274,own,4,C,own in-domain CV,0,3,4,4
+275,own,0,C,own in-domain CV,0,3,0,0
+276,own,1,C,own in-domain CV,0,3,1,1
+277,own,2,C,own in-domain CV,0,3,2,2
+278,own,3,C,own in-domain CV,0,3,3,3
+279,own,4,C,own in-domain CV,0,3,4,4
+320,own,0,C,own in-domain CV,0,3,0,0
+321,own,1,C,own in-domain CV,0,3,1,1
+322,own,2,C,own in-domain CV,0,3,2,2
+323,own,3,C,own in-domain CV,0,3,3,3
+324,own,4,C,own in-domain CV,0,3,4,4
+325,own,0,C,own in-domain CV,0,3,0,0
+326,own,1,C,own in-domain CV,0,3,1,1
+327,own,2,C,own in-domain CV,0,3,2,2
+328,own,3,C,own in-domain CV,0,3,3,3
+329,own,4,C,own in-domain CV,0,3,4,4
+370,own,0,C,own in-domain CV,0,3,0,0
+371,own,1,C,own in-domain CV,0,3,1,1
+372,own,2,C,own in-domain CV,0,3,2,2
+373,own,3,C,own in-domain CV,0,3,3,3
+374,own,4,C,own in-domain CV,0,3,4,4
+375,own,0,C,own in-domain CV,0,3,0,0
+376,own,1,C,own in-domain CV,0,3,1,1
+377,own,2,C,own in-domain CV,0,3,2,2
+378,own,3,C,own in-domain CV,0,3,3,3
+379,own,4,C,own in-domain CV,0,3,4,4
+460,own,0,C,own in-domain CV,0,3,0,0
+461,own,1,C,own in-domain CV,0,3,1,1
+462,own,2,C,own in-domain CV,0,3,2,2
+463,own,3,C,own in-domain CV,0,3,3,3
+464,own,4,C,own in-domain CV,0,3,4,3
+465,own,0,C,own in-domain CV,0,3,0,0
+466,own,1,C,own in-domain CV,0,3,1,1
+467,own,2,C,own in-domain CV,0,3,2,2
+468,own,3,C,own in-domain CV,0,3,3,3
+488,own,0,C,own in-domain CV,0,3,0,0
+489,own,1,C,own in-domain CV,0,3,1,1
+490,own,2,C,own in-domain CV,0,3,2,2
+491,own,3,C,own in-domain CV,0,3,3,3
+492,own,4,C,own in-domain CV,0,3,4,2
+493,own,0,C,own in-domain CV,0,3,0,0
+494,own,1,C,own in-domain CV,0,3,1,1
+495,own,2,C,own in-domain CV,0,3,2,2
+496,own,4,C,own in-domain CV,0,3,4,3
+497,own,3,C,own in-domain CV,0,3,3,3
+499,own,4,C,own in-domain CV,0,3,4,4
+280,own,0,C,own in-domain CV,0,4,0,0
+281,own,1,C,own in-domain CV,0,4,1,1
+282,own,2,C,own in-domain CV,0,4,2,2
+283,own,3,C,own in-domain CV,0,4,3,3
+284,own,4,C,own in-domain CV,0,4,4,4
+285,own,0,C,own in-domain CV,0,4,0,0
+286,own,1,C,own in-domain CV,0,4,1,1
+287,own,2,C,own in-domain CV,0,4,2,2
+288,own,3,C,own in-domain CV,0,4,3,3
+289,own,4,C,own in-domain CV,0,4,4,4
+310,own,0,C,own in-domain CV,0,4,0,0
+311,own,1,C,own in-domain CV,0,4,1,1
+312,own,2,C,own in-domain CV,0,4,2,2
+313,own,3,C,own in-domain CV,0,4,3,3
+314,own,4,C,own in-domain CV,0,4,4,4
+315,own,0,C,own in-domain CV,0,4,0,0
+316,own,1,C,own in-domain CV,0,4,1,1
+317,own,2,C,own in-domain CV,0,4,2,2
+318,own,3,C,own in-domain CV,0,4,3,3
+319,own,4,C,own in-domain CV,0,4,4,4
+380,own,0,C,own in-domain CV,0,4,0,0
+381,own,1,C,own in-domain CV,0,4,1,1
+382,own,2,C,own in-domain CV,0,4,2,2
+383,own,3,C,own in-domain CV,0,4,3,3
+384,own,4,C,own in-domain CV,0,4,4,4
+385,own,0,C,own in-domain CV,0,4,0,0
+386,own,1,C,own in-domain CV,0,4,1,1
+387,own,2,C,own in-domain CV,0,4,2,2
+388,own,3,C,own in-domain CV,0,4,3,3
+389,own,4,C,own in-domain CV,0,4,4,4
+290,own,0,C,own in-domain CV,0,5,2,2
+291,own,1,C,own in-domain CV,0,5,1,1
+292,own,2,C,own in-domain CV,0,5,2,1
+293,own,3,C,own in-domain CV,0,5,3,1
+294,own,4,C,own in-domain CV,0,5,4,4
+295,own,0,C,own in-domain CV,0,5,0,0
+296,own,1,C,own in-domain CV,0,5,1,1
+297,own,2,C,own in-domain CV,0,5,2,1
+298,own,3,C,own in-domain CV,0,5,3,1
+299,own,4,C,own in-domain CV,0,5,4,4
+330,own,0,C,own in-domain CV,0,5,1,0
+331,own,1,C,own in-domain CV,0,5,1,1
+332,own,2,C,own in-domain CV,0,5,2,2
+333,own,3,C,own in-domain CV,0,5,3,3
+334,own,4,C,own in-domain CV,0,5,4,4
+335,own,0,C,own in-domain CV,0,5,0,0
+336,own,1,C,own in-domain CV,0,5,1,1
+337,own,2,C,own in-domain CV,0,5,2,2
+338,own,3,C,own in-domain CV,0,5,3,3
+339,own,4,C,own in-domain CV,0,5,4,4
+390,own,0,C,own in-domain CV,0,5,0,0
+391,own,1,C,own in-domain CV,0,5,1,1
+392,own,2,C,own in-domain CV,0,5,2,2
+393,own,3,C,own in-domain CV,0,5,3,3
+394,own,4,C,own in-domain CV,0,5,4,4
+395,own,0,C,own in-domain CV,0,5,0,0
+396,own,1,C,own in-domain CV,0,5,1,1
+397,own,2,C,own in-domain CV,0,5,2,2
+398,own,3,C,own in-domain CV,0,5,3,3
+399,own,4,C,own in-domain CV,0,5,4,4
+410,own,0,C,own in-domain CV,0,5,0,0
+411,own,1,C,own in-domain CV,0,5,1,1
+412,own,2,C,own in-domain CV,0,5,2,2
+413,own,3,C,own in-domain CV,0,5,3,3
+414,own,4,C,own in-domain CV,0,5,4,4
+415,own,0,C,own in-domain CV,0,5,0,0
+416,own,1,C,own in-domain CV,0,5,1,1
+417,own,2,C,own in-domain CV,0,5,2,2
+418,own,4,C,own in-domain CV,0,5,4,4
+419,own,3,C,own in-domain CV,0,5,3,3
+420,own,0,C,own in-domain CV,0,5,0,0
+421,own,1,C,own in-domain CV,0,5,1,1
+422,own,2,C,own in-domain CV,0,5,2,2
+423,own,3,C,own in-domain CV,0,5,3,3
+424,own,4,C,own in-domain CV,0,5,4,4
+425,own,0,C,own in-domain CV,0,5,0,0
+426,own,1,C,own in-domain CV,0,5,1,1
+427,own,2,C,own in-domain CV,0,5,2,2
+428,own,3,C,own in-domain CV,0,5,3,3
+429,own,4,C,own in-domain CV,0,5,4,4
+430,own,0,C,own in-domain CV,0,5,0,0
+431,own,1,C,own in-domain CV,0,5,1,1
+432,own,2,C,own in-domain CV,0,5,2,2
+433,own,3,C,own in-domain CV,0,5,1,3
+434,own,4,C,own in-domain CV,0,5,4,4
+435,own,0,C,own in-domain CV,0,5,0,0
+436,own,1,C,own in-domain CV,0,5,1,1
+437,own,2,C,own in-domain CV,0,5,2,2
+438,own,3,C,own in-domain CV,0,5,3,3
+439,own,4,C,own in-domain CV,0,5,4,4

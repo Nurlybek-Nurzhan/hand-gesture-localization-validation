@@ -1,0 +1,6 @@
+setting,test_images,n_seeds,HOG+SVM_%,HOG+SVM_std_pp,MobileNetV2_%,MobileNetV2_std_pp
+hagrid in-domain CV,250,3,86.0,1.83,90.13,1.51
+hagrid->own,250,3,48.4,0.69,79.6,2.12
+"hagrid->own, no low-res aug",250,3,48.4,0.69,79.33,2.27
+own in-domain CV,250,3,91.33,2.05,93.6,2.0
+own->hagrid,250,3,60.4,1.06,78.8,2.4

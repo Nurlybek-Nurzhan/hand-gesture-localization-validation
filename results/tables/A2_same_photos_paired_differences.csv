@@ -1,0 +1,13 @@
+photos,n,reference,alternative,reference_%,alternative_%,diff_pp,ci95_low_pp,ci95_high_pp
+MediaPipe found the hand,473,gt_m0.25,mp_m0.25,92.88,88.58,4.3,1.83,6.9
+MediaPipe found the hand,473,gt_m0.25,mp_m0.35,92.88,88.16,4.72,2.24,7.33
+MediaPipe found the hand,473,gt_m0.25,whole_squash,92.88,24.31,68.57,65.09,72.12
+MediaPipe found the hand,473,gt_m0.25,whole_pad,92.88,21.92,70.97,67.62,74.41
+MediaPipe did not find the hand,27,gt_m0.25,mp_m0.25,75.31,33.33,41.98,22.22,57.47
+MediaPipe did not find the hand,27,gt_m0.25,mp_m0.35,75.31,33.33,41.98,22.22,57.47
+MediaPipe did not find the hand,27,gt_m0.25,whole_squash,75.31,33.33,41.98,22.22,57.47
+MediaPipe did not find the hand,27,gt_m0.25,whole_pad,75.31,27.16,48.15,25.33,66.67
+all photos,500,gt_m0.25,mp_m0.25,91.93,85.6,6.33,3.6,9.19
+all photos,500,gt_m0.25,mp_m0.35,91.93,85.2,6.73,4.09,9.48
+all photos,500,gt_m0.25,whole_squash,91.93,24.8,67.13,63.45,70.76
+all photos,500,gt_m0.25,whole_pad,91.93,22.2,69.73,66.08,73.14
